@@ -2,7 +2,7 @@
     "host": "your-database-host",
     "port": 3306,
     "username": "your-username",
-    "password": "your-password",
+    "password": "larmer",
     "database": "your-database-name",
     "dialect": "mysql"
 }
